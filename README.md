@@ -28,4 +28,4 @@ A mini project which helps to undrestand concepts such as:
 
 **Libraries**: Scikit-learn, Pandas, Imbalanced-learn, Matplotlib
 
-**Dataset**: [Palmer penguin]([palmerpenguins R data package • palmerpenguins](https://allisonhorst.github.io/palmerpenguins/))
+**Dataset**: [Palmer penguin](https://allisonhorst.github.io/palmerpenguins/)
