@@ -6,7 +6,7 @@
 
 This repository consists of Data mining projects at Amirkabir University of technology.
 
-## Project1: Data Analysis
+## Project 1: Data Analysis
 
 A mini project which helps to undrestand concepts such as:
 
@@ -29,3 +29,23 @@ A mini project which helps to undrestand concepts such as:
 **Libraries**: Scikit-learn, Pandas, Imbalanced-learn, Matplotlib
 
 **Dataset**: [Palmer penguin](https://allisonhorst.github.io/palmerpenguins/)
+
+## Project 2: Machine Learning & Deep Learning
+
+A mini project which helps to undrestand concepts such as:
+
+1. Q-box
+
+2. Linear Regression Vs Polynomial Regression
+
+3. Classification using : Decision tree, Random forest, KNN, Linear & Non-Linear SVM
+
+4. Mutli-class classification using Deep learning
+
+5. Confusion matrix
+
+**Libraries**: Scikit-learn, Tensorflow, Pandas, Numpy , Matplotlib
+
+[![Screenshot-2023-04-21-at-12-02-06-PM.png](https://i.postimg.cc/15GZPkPx/Screenshot-2023-04-21-at-12-02-06-PM.png)](https://postimg.cc/nChWGwCT)
+
+**Dataset**: House price
