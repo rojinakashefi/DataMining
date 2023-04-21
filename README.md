@@ -44,8 +44,8 @@ A mini project which helps to undrestand concepts such as:
 
 5. Confusion matrix
 
-**Libraries**: Scikit-learn, Tensorflow, Pandas, Numpy , Matplotlib
-
 [![Screenshot-2023-04-21-at-12-02-06-PM.png](https://i.postimg.cc/15GZPkPx/Screenshot-2023-04-21-at-12-02-06-PM.png)](https://postimg.cc/nChWGwCT)
 
-**Dataset**: House price
+**Libraries**: Scikit-learn, Tensorflow, Pandas, Numpy , Matplotlib
+
+**Dataset**: [House price](https://drive.google.com/file/d/17avT1w01dj9ELs8UiJS7yOmQkjd06Q3h/view?usp=sharing)
