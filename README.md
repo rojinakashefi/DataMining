@@ -80,4 +80,4 @@ A project which wants to make some prediction of persian music dataset.
 
 Libraries: Scikit-learn, matplotlib, numpy
 
-Dataset: [Persian Spotify]()
+Dataset: [Persian Spotify](https://github.com/rojinakashefi/DataMining/blob/main/Persian-Spotify/Spotfiy_Persian_Artists.csv)
