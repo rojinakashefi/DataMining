@@ -49,3 +49,35 @@ A mini project which helps to undrestand concepts such as:
 **Libraries**: Scikit-learn, Tensorflow, Pandas, Numpy , Matplotlib
 
 **Dataset**: [House price](https://drive.google.com/file/d/17avT1w01dj9ELs8UiJS7yOmQkjd06Q3h/view?usp=sharing)
+
+## Project 3: Kmeans algorithm
+
+1. Create Similarity matrix using Cosine Similarity and euclidean distance
+
+2. Implementing Kmeans algorithm.
+   
+   <img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/Kmeans.png" title="" alt="" width="383">
+
+Results : 
+
+<img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/ed.png" title="" alt="" width="417">
+
+<img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/cs.png" title="" alt="" width="419">
+
+**Libraries**: Scikit-learn,matplotlib, numpy
+
+**Dataset:** [Kmeans dataset]()
+
+## Final Project: Persian Spotify
+
+A project which wants to make some prediction of persian music dataset.
+
+1. Consists of EDA and PCA visualization
+
+2. Implementing Regression for popularity prediction 
+
+3. Implementing Classification for traditional music prediction
+
+Libraries: Scikit-learn, matplotlib, numpy
+
+Dataset: [Persian Spotify]()
