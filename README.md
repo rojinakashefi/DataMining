@@ -56,13 +56,13 @@ A mini project which helps to undrestand concepts such as:
 
 2. Implementing Kmeans algorithm.
    
-   <img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/Kmeans.png" title="" alt="" width="383">
+   <img src="https://github.com/rojinakashefi/DataMining/blob/main/Kmeans-algorithm/Kmeans.png" title="" alt="" width="383">
 
 Results : 
 
-<img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/ed.png" title="" alt="" width="417">
+<img src="https://github.com/rojinakashefi/DataMining/blob/main/Kmeans-algorithm/ed.png" title="" alt="" width="417">
 
-<img src="file:///Users/rojina/Desktop/learning/DataMining/Kmeans-algorithm/cs.png" title="" alt="" width="419">
+<img src="https://github.com/rojinakashefi/DataMining/blob/main/Kmeans-algorithm/cs.png" title="" alt="" width="419">
 
 **Libraries**: Scikit-learn,matplotlib, numpy
 
